@@ -1,0 +1,10 @@
+transformers
+unidecode
+numpy
+pandas
+torch
+google-generativeai
+statsmodels
+matplotlib
+accelerate
+datasets
